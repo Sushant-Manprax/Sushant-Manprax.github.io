@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.book_distrition",
+      "sha256_cert_fingerprints": [
+        "8C:88:7C:37:BB:D5:39:BE:B0:C1:DF:56:66:D4:58:93:28:9A:D1:2D:44:E3:7D:E8:F6:30:CD:5B:5B:AA:35:9B"
+      ]
+    }
+  }]
